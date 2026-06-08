@@ -1,5 +1,3 @@
-# 🎁 GiftVerse
-
 <div align="center">
 
 # GiftVerse
@@ -309,3 +307,7 @@ This project is licensed under the MIT License.
 ## 👩‍💻 Author
 
 **Prachi Patil**
+
+B.Tech Information Technology Student
+
+Aspiring Software Engineer | Frontend Developer | Data Analyst
